@@ -1,0 +1,81 @@
+{
+  "Profiles": [
+    {
+      "firstName": "Sumanth",
+      "lastName": "inturi",
+      "email": "sumanthinturi7@gmail.com",
+      "location": "Hyderabad",
+      "Age": "21",
+      "contactNumber": "9876543210",
+      "id": 1
+    }
+  ],
+  "Todo": [
+    {
+      "title": "watching movie",
+      "discription": "on 14th jan",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "playing cricket",
+      "discription": "mng 6",
+      "status": true,
+      "id": 11
+    },
+    {
+      "title": "Going out",
+      "discription": "Tomorrow",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "watch",
+      "discription": "vaarisu",
+      "status": true,
+      "id": 23
+    },
+    {
+      "title": "sdfdsafdsa",
+      "discription": "asdfsdf",
+      "status": true,
+      "id": 25
+    },
+    {
+      "title": "dffdgfdgfds",
+      "discription": "xfvfdsvdfvdsf",
+      "status": true,
+      "id": 26
+    },
+    {
+      "title": "Submit",
+      "discription": "Submit",
+      "status": true,
+      "id": 28
+    },
+    {
+      "title": "watching comedy video",
+      "discription": "with friends",
+      "status": true,
+      "id": 32
+    },
+    {
+      "title": "watching comedy video",
+      "discription": "with friends",
+      "status": false,
+      "id": 33
+    },
+    {
+      "title": "eating biryani",
+      "discription": "in home",
+      "status": false,
+      "id": 34
+    },
+    {
+      "title": "going out",
+      "discription": "with family",
+      "status": true,
+      "id": 35
+    }
+  ]
+}
